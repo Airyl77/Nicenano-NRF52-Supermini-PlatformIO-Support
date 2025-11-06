@@ -84,3 +84,7 @@ Most likely because the charging IC is very leaky, if you want to use as little 
 I have a Zephyr branch but there is also something about this board on there [website](https://docs.zephyrproject.org/latest/boards/others/promicro_nrf52840/doc/index.html)
 
 If you want to use n-able, here is what to put in [platformio.ini](https://github.com/LeeorNahum/platform-n-able-pro-micro-nrf52840?tab=readme-ov-file#updated-usage-for-pro-micro-nrf52840)
+
+Pinout from manufacturer (not to google it again)
+![sedb0664b4eb04640a66e07424a1dc718d](https://github.com/user-attachments/assets/1ee88160-c629-41bb-8a42-fab7b1f2b205)
+
